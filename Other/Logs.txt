@@ -1,0 +1,141 @@
+Alpha-10 (Not released yet)
+
+- Added a pannel to display quest who are currently in progress.
+- 
+
+
+Alpha-9 (05/07/2016)
+
+- Changed the flag of Poland, who was the wrong flag (it was the flag of Monaco or Indonesia...)
+- Improved the polish translation. She is not as complete as the french and english translation.
+- The player can now use 'o' to open the options menu.
+- Added 6 achievements to the game.
+- Correct a bug where Mimi would appear even if she was dead.
+- The ennemies archers can now fire arrows.
+- Added tips to the death screen.
+- Removed the healer to the character selection because he is not playable yet, too many features aren't implemented yet.
+- Fixed a bug where when the player walk in a defused hole, the hole isn't show.
+- Blood now stay on the floor where ennemies are killed.
+
+
+Alpha-8 (28/06/2016)
+
+- Improved the selection language menu by adding an image in background.
+- Maked some improvement to the server/client connexion, it will work very soon.
+- Improved the IA of Saria and Kya when they are both in the player's team, so they won't stuck each other him anymore.
+- The game over's screen is now fully translated in english.
+- The player can no longer use backspace to go back in the menu, because it'ld give him the ability to easily have a great score in the online scoreboard.
+- Added some others minor improvements.
+
+
+Alpha-7 (21/06/2016)
+
+- Corrected some translations.
+- Added new dialogs.
+- The player can now choose which class he want to play at the beginning of the game (For this moment, only Healer and Warrior are available)
+- Added some effects for the player and for one event.
+- Added another way to 'cure' Saria.
+- The game can now connect to the server, but it's still useless.
+- Added a description for all items. You can check it in your inventory.
+
+
+Alpha-6 (14/06/2016)
+
+- A new trap was added.
+- Added additionnal informations to the death's screen.
+- Ennemies can no longer spawn in the 'spawn zone' in the random-generated dungeon.
+- Fixed some bugs.
+- The player now have more attack, he can kick ennemis (with '2') and boost his attack (with '3'), he also can have a shield (with '4').
+- The player now can find and place bombs (with '0') to destroy walls.
+- Graphisms improved.
+- Reduced the heal of the healer.
+- Improved translations.
+- Added more tips.
+- The "berserker event" can no longer spawn before the 3th level.
+- Added a quest, it's not possible to finish it yet.
+- You can now hurt Mimi, try to don't attack her by spamming an attack button to go out of a dialog !
+
+
+Alpha-5 (07/06/2016)
+
+- Add an option when recruting NPCs to have more informations about there quests.
+- The player can now find keys in the floor, and take them into his inventory.
+- The secret level is harder to access.
+- The ennemy healer now heal his allies instead of attacking them.
+- Added 4 events: in the dark, in the cold, one about a character and out of mana.
+- Added a new section to the tutorial.
+- Objets can now be find in chests (chocolate, potions, and board)
+- A board can be use to cover a hole.
+- Added dialogs for Mimi the Mimic.
+- Chocolate can now be used to give to Mimi.
+- The player can now use A and E to turn the player.
+- Some english dialogs were corrected.
+- The thief can now 'defuse' traps.
+- Removed the option to the spanigh translation, because I still don't have any news about the spanish translator.
+- Holes and chests can no longer spawn in the 'spawn zone' in the random-generated dungeon.
+
+
+Alpha-4 (31/05/2016)
+
+- The player can now use keys to unlock closed door.
+- Doors can now be open with enter.
+- Fixed some minor bugs.
+- Corrected some english dialogs (thanks to Amira and Alexis Brand)
+- Improved the healer's AI.
+- The ennemies are now stronger.
+- Added 2 new ennemie: the berserker. He's very strong and have a lot of health, but can fall in the holes. (Currently the best strategie to beat him).
+  				      He can only appear after the level 2.
+		       the healer. He only can run away for now (and heal his allies)
+				   He can only appear after the level 2.
+- The score of the player is now show when he die.
+- Updated the dialogs.
+- Remove an option who showed dialogs in the random-generated dungeon in the previous version of the game. This was crashing the game because this function was in developpement.
+- The player's attack now cost vigor.
+- Characters now regen 4 vigor/mana points by seconds.
+- Decrease the probability that a hole will appear.
+- The player can now use the comma to display the keys.
+
+
+Alpha-3 (24/05/2016)
+
+- Added a quick access bar that show your attacks and some pre-selected items you have in your inventory
+- The player can now use potions (4 differents potions for now)
+- Improved the graphisms.
+- Health, mana bar and damages display now working properly.
+- Holes and chests can no longer spawn in front of a door in the random-generated dungeon
+- Fixed some minor bugs.
+- Lot of dialogs were remade.
+- Added 2 new NPCs: Kya(theif) and Elenia(archer).
+- You can now recruit people in your team.
+- Minor modifications in the menu.
+- You can no longer destroy walls in the main menu.
+- A new map was added, not finished yet. 
+
+
+Alpha-2 (17/05/2016)
+
+- The player now can open his inventory with 'i' (Useless for now).
+- Credits were added (the sign in the left bottom of the main menu).
+- Improved the graphisms. (Lot of them were remade by kunnuh, some others will be add in the next release.)
+- Added a fog of war.
+- Improved the Polish translation.
+- The size of the squares are now 50*50 instead of 30*30. That's mean you won't see the whole map and the camera will move of needed.
+- Added a loading message between launching of the game and the main menu.
+- A tutorial was added (not working well yet).
+- Fixed some minor bugs.
+
+
+Alpha-1 (10/05/2016)
+
+First release of the game :).
+
+Features available:
+
+- Random generated dungeon (2 types of ennemis, and chests).
+- Chests will give gold (There are 4 types of chests).
+- Team of 3 characters (really basic AI) + you.
+- French, English, and (partial)Polish translation.
+- 3 classes (Healer, Wizard and Warrior), the player can only play Warrior for now.
+- The player only have one attack.
+- The player can kill ennemis for earning XP points and level upping. Level upping will give you more vigor(or mana for healers and warriors), and life.
+- You can try your attack on the mannequin in the main menu. An effect will show the damage you do on your ennemis.

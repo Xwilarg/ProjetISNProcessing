@@ -1,0 +1,137 @@
+Hi, thanks a lot for testing my game :).
+This is the build Alpha-9
+Please don't distribute, publish or sell this game.
+
+Warning, this read me is out of date, please read the other for more recent informations.
+
+Here's what you'll have on this text file:
+
+1- What I need and what you should expect from this build
+2- Controls
+3- Explanations about the game
+4- Bugs know
+5- Upcoming features
+6- Credits
+
+
+
+1- What I need and what you should expect from this build
+
+This build is a debug build, it's an alpha because:
+- The game isn't finish yet
+- There are still a lot of bugs (that's why there are debugs functions)
+- All the features aren't present
+
+The game will maybe not even be fun, it's not even suppose to be fun yet.
+
+Please report the following things
+- Please report any translations errors or missing translations, except the errors messages (only in french yet) and texts who aren't in polish (the translation is only partial yet)
+- Any bugs who aren't in the Bugs know section. 
+	- Please also don't report bugs you can't reproduce or explain how it's happened.
+	- If you can, please join a screenshot of the bug.
+	- Please don't report bugs who happened because of the debugs features, these functions are for debug only and won't stay on the game anyway.
+- If you think something in the interface can be better, or is something in the game is missing, please at first look in the Upcoming features section, and if the feature is not write in it, please tell me.
+
+
+
+2- Controls
+
+Move, open doors: Directional pad
+Speak with someone, read signs: Enter
+Attack: 1/2/3/4 (Numeric pad)
+Escape: Pause
+i: Open your inventory
+5/6/7/8: Potions
+2(square): Hide/Show FPS
+,: Show controls
+A/E: Turn your character
+
+--- Debug functions ---
+
+Debug functions aren't available anymore.
+
+
+
+3- Explanations about the game
+
+When you will start the game, you after choosing the language and seeing the "This game was made with Processing" (you can skip it with any key), you will be on the main menu.
+
+You can speak with the NPCs (with enter) for recruting them.
+
+For the room with stairs:
+
+The first stair (the one on the left) will lead you to the random-generated dungeon.
+Every 5 floors, there will be a boss (I'm finishing to create AI for regular ennemies before doing that)
+If you can't access to the exit of the dungeon, just use '*' to break a wall.
+There are only 2 types of ennemis yet:
+One who will move (I'm currently programming his AI) and one who won't (I don't really know why, but it's not my first priority)
+If you kill one of them, you will earn XP and gold.
+
+
+For the second stair, it'll lead you to the tutorial (not finish yet).
+
+
+The last stair will lead you to all the others levels I made... Well, lot of them are useless.
+"001" is an empty room I originally made for a story mod, but for some reason, this project abandoned for the moment.
+"carteEx" was a map I made to show to someone how easy it's for me to create maps
+"testIA" is a map I created to test AI but... Well, I don't really use it...
+"Boss1" is a room with a lot of pillars. I planned to use it to help me to program the bosses.
+
+So, what about the story ?
+Well, he isn't on the game yet, but a NPC will later explain you why you're here.
+I won't detailled the story here, sorry.
+But depending of how you act (if you spare ennemies, or maybe just don't kill them ?), some NPC will like you more, some won't...
+
+
+4- Bugs know
+
+Please do not report these bugs
+
+- The mannequin can die
+- Sometimes, you can't close dialog boxs with enter (especially when you try to open a closed door), so you need to use another key
+- You sometimes can't reach the end of the random-generated dungeon, so just use '*' to break a wall
+- The AI are really dumb. I hope I will be able to fix that soon.
+- The brown ennemies don't move
+- The healer is sometimes really annoying because he's always following you
+- The wizard and the archer can't do anything yet, he was before acting like the warrior, but I deleted his AI because he was using all his mana and after dying against ennemies because he was out of mana.
+- When you're dead, the game is automatically closed, yeah, I know it's annoying but I'll manage that later
+- The healer can heal even if he's out of mana (I really don't know what this is happening)
+- Please tell me if you encounter an unusual chest (you will understand if you try to open it)
+- The loading screen may show the wrong informations
+- The health bar of the mannequin may look weird
+- The ennemies disapear when they die (they aern't suppose to do that, so you'll be able to loot them later)
+- The block in the righter of the map will always be an unbreakable wall
+- Only the model of the player turn when he turn.
+
+
+5- Upcoming features
+
+I will try to add soon these features:
+- Improve AI
+- I planned to add a special level, I won't say anything about that
+- A story
+- Opening closed door will be with the same way as no-closed door
+- An other way to attack ennemies, so it won't be a "I can spam my keyboard really fast". I also planned to add others actions (like using a shield, etc)
+- The option of looting ennemies
+
+These features are planned, but not for now:
+- A NPC who will sell item (I need to add an inventory before that)
+- Play others class (I need to make good AI and others attack, before that)
+- Create an algorithm to check if the random-generated dungeon is possible or not (not my first priority)
+- Add more interractions with the characters (doing dialogs box are really annoying so... I will add dialogs tree later)
+- A local multiplayer mod (I have a lot of things to do before that)
+- Encoding the text files so the player won't be able to change them (not really important for now)
+
+I won't add these features:
+- Gamepad compatibiliy (I would really like to add that, but I tried and Processing is really bad to manage gamepad, so the only librairied I found were bad...)
+
+
+
+6- Credits
+
+This game was created by Christian CHAUX (me).
+Thanks to my informatc teacher, Miss Vaillant, who helping me a lot during this project.
+Thanks to Amira and Regixter who helped to make the Polish translation.
+Thanks to Amira for testing this game.
+Thanks to kunnuh for making the graphisms.
+And thanks to you, who tried this debug version of this game.

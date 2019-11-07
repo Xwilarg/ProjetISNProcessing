@@ -1,0 +1,38 @@
+En tout premier, vous devez mettre la carte.
+Elle doit imperativement etre de 37*19.
+Voici une carte vide:
+
+M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . M
+M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M M
+
+Les differentes valeurs de bases peuvent etre:
+M: mur incassable
+N: mur cassable, se comporte comme un mur pour l'instant
+P: porte, ouvrable avec la touche "Entree"
+Z: passage secret, se comporte comme un mur pour l'instant
+L: porte ferme, se comporte comme un mur. Elle indique egalement au joueur qu'elle est ferme
+R: pancarte, donne des informations au joueur
+E: entree du niveau
+S: sortie du niveau
+J: personnages non joueur
+
+Veuillez ensuite mettre un '#' pour preciser que la generation de carte est termine.
+
+// En cours de redaction

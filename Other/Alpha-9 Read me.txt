@@ -1,0 +1,10 @@
+Hi, thanks for testing Alpha-9.
+
+For more informations about the game, please read "Read me".
+For more informations about the new functionnalities, please read "Logs".
+
+So, I added some news features (option menu, achievements).
+They maybe weren't that important... but well, they are still useful.
+I also added the ability to the ennemi bowman to fire arrow. There are still some glitchs with them, but I'll try to fix that soon.
+
+Please report me every bugs you found or every suggestion you have.
